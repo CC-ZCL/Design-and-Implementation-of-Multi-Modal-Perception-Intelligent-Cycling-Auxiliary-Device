@@ -5,7 +5,6 @@
 ## 目录结构
 ```
 MultiCheck/
-├── .git/                # Git版本管理目录
 ├── logs/                # 运行日志存放目录
 ├── multimod_app/        # 业务应用代码目录(PyQt5界面、模型调用、云通信等)
 └── main.py              # 项目主入口文件
