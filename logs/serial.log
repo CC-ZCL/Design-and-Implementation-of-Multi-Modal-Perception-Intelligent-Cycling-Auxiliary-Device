@@ -1,4 +1,0 @@
-2026-06-10 19:12:27 [DEBUG] 串口日志已启用: D:\project\MultiCheck\logs\serial.log
-2026-06-10 19:12:27 [DEBUG] 严格 JSON 解析失败: Expecting ',' delimiter: line 1 column 75 (char 74) | raw={"device_id":"ESP32C3","tem":0,"Light":1077456896,"Distance":78,"Speed":56"}
-2026-06-10 19:12:27 [INFO] 修复后 JSON 解析成功 | raw={"device_id":"ESP32C3","tem":0,"Light":1077456896,"Distance":78,"Speed":56"} | repaired={"device_id":"ESP32C3","tem":0,"Light":1077456896,"Distance":78,"Speed":56}
-2026-06-10 19:12:27 [WARNING] JSON 解析全部失败 | raw=18.5
